@@ -1,6 +1,6 @@
 # Описание проектов
 ---
-|Проект| Описание |Используемые библиотеки |
+|**Проект**| **Описание**|**Используемые библиотеки** |
 |:------------- |:------------------:| :-----|
 | [Анализ АВ теста и приоретизация гипотез](https://github.com/romanovevg/project/blob/master/ab_test_analysis/ab_test_analysis.ipynb)|Приотизиция гипотез, оценка результатов A/B теста|pandas, numpy, matplotlib, scipy  |
 | [Анализ бизнес показателей](https://github.com/romanovevg/project/blob/master/business_performance_analysis/business_performance_analysis.ipynb) |Оптимизация маркетинговых затрат. Расчет показателей: DAU, WAU, MAU, ROI, LTV.|  pandas, seaborn, matplotlib, numpy  |
